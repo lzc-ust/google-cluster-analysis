@@ -49,7 +49,7 @@ A comprehensive EDA and predictive analysis project using the Google Borg Cluste
 ## ✅ Environment Setup
 
 ```bash
-conda create -n cluster-analysis python=3.10
+conda create -n cluster-analysis python=3.9.21
 conda activate cluster-analysis
 pip install -r requirements.txt
 ```
