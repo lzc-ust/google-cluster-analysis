@@ -32,6 +32,10 @@ A comprehensive EDA and predictive analysis project using the Google Borg Cluste
 - **WANG, Ziling:** EDA visualizations, queueing delay and efficiency investigations
 - **YANG, Zhuorui:** Resource request extraction, binary classification analysis
 
+## 📽️ Presentation Video
+
+A 10-minute presentation video summarizing this project is available at: [Click to watch](https://hkustconnect-my.sharepoint.com/:v:/g/personal/zlijw_connect_ust_hk/EQgw63Bkj7NHqEmnBvwqYvEBc5fAClKPZkS3U5BnWuwu6Q)
+
 ## 📊 How to Run
 
 1. Place the raw Google trace files in the `data/` directory.  

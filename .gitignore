@@ -38,8 +38,8 @@ video/*
 !video/.gitkeep
 
 # 不要跟踪报告构建中间文件
+# report/*.pdf
 report/*.aux
 report/*.log
 report/*.out
 report/*.toc
-report/*.pdf
